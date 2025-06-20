@@ -77,10 +77,6 @@ jobs:
 
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
 
-            dist/github-snake-gradient-light.gif?color_snake=#54c6dd&color_dots=#42d392,#57c9a6,#6cbfba,#80b5ce,#95aae3,#647eff
-             
-            dist/github-snake-gradient-dark.gif?palette=github-dark&color_snake=#54c6dd&color_dots=#42d392,#57c9a6,#6cbfba,#80b5ce,#95aae3,#647eff
-
         env:
 
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
