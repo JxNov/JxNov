@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=42d392&center=true&vCenter=true&width=500&lines=Hi!+I'm+Manh+Dung+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Welcome+to+my+GitHub!+%E2%9C%A8" alt="Typing introduction text" />
   
-  <h1>JxNov 🫰</h1>
+  <h1>JxNov ♐</h1>
   <h3>
     Full-Stack Developer | Hanoi, Vietnam 
     <img width="20px" src="https://github.com/user-attachments/assets/f5adb400-522f-4036-af49-4b31dabc5672" alt="Vietnamese flag" />
@@ -100,6 +100,6 @@ const JxNov = {
   </p>
   
   <p>
-    🧸 From <a href="https://github.com/JxNov">JxNov</a>
+    ✨ From <a href="https://github.com/JxNov">JxNov</a>
   </p>
 </div>
