@@ -20,8 +20,6 @@ const manhjun = {
     location: "🌏 Hanoi, Vietnam",
     role: "💻 Full-Stack Developer",
     stacks: [
-      "🟨 JavaScript",
-      "🟦 TypeScript",
       "🟩 Vue.js",
       "🌿 Node.js",
       "🐘 PHP",
